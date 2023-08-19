@@ -1,3 +1,0 @@
-/home/pedroso/Documents/exercicios/ex-010/cmake-build-debug/CMakeFiles/ex_010.dir
-/home/pedroso/Documents/exercicios/ex-010/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/pedroso/Documents/exercicios/ex-010/cmake-build-debug/CMakeFiles/rebuild_cache.dir
